@@ -20,7 +20,7 @@ The advertisement group achieved approximately 43% higher conversion performance
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Conclusion
 
