@@ -77,6 +77,6 @@ The advertisement campaign significantly outperformed the PSA control group, ach
 
 ## Files Included
 
-- `Marketing_AB_Test_Analysis.xlsb` – Excel workbook containing the analysis, pivot tables, and dashboard
+- `marketing_ab_test_dashboard.xlsb` – Excel workbook containing the analysis, pivot tables, and dashboard
 - `Dashboard.png` – Dashboard visualization
 - `README.md` – Project documentation
