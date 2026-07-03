@@ -72,11 +72,3 @@ Does the advertisement campaign produce a higher conversion rate than the PSA co
 ## Conclusion
 
 The advertisement campaign significantly outperformed the PSA control group, achieving a higher conversion rate and generating stronger marketing performance. The results suggest that the advertising strategy was effective in driving user conversions and should be considered for future campaigns.
-
----
-
-## Files Included
-
-- `marketing_ab_test_dashboard.xlsb` – Excel workbook containing the analysis, pivot tables, and dashboard
-- `Dashboard.png` – Dashboard visualization
-- `README.md` – Project documentation
